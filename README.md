@@ -1,7 +1,6 @@
 <h1 align="center">Hi There👋, I am Divyashree Rao</h1>
-<h3 align="center">An undergrad at NIT Surat</h3>
+<h3 align="center">A CSE undergrad at NIT Surat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-2910&label=Profile%20views&color=0e75b6&style=flat" alt="divya-2910" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack and ML.**
 
